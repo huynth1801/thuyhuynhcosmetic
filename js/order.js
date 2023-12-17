@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
     showSelectedProducts();
-    // showRecommendedProducts();
 });
 
 function showSelectedProducts() {
@@ -62,7 +61,7 @@ function removeItemFromCart(trashIcon) {
     let shoppingCart = JSON.parse(localStorage.getItem('shoppingCart')) || [];
 
     // Lấy index của sản phẩm trong giỏ hàng
-    const index = Array.from(trashIcon.parentElement.parentElement.children).indexOf(trashIcon.parentElement);
+    const index = Array.from(trashIcon.parentNode.children).indexOf(trashIcon.parentNode);
 
     if (index !== -1) {
         // Giảm số lượng sản phẩm
