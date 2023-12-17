@@ -41,9 +41,10 @@ function showDetail() {
 
 
     (products.filter(value => value.id != productId && value.type == thisProduct.type)).forEach(product => {
+        const baseUrl = window.location.hostname === 'localhost' ? '' : '/thuyhuynhcosmetic';
         let newProduct = document.createElement('a');
         const discountedPrice = calculateDiscountedPrice(product.price, product.discount);
-        newProduct.href = '/thuyhuynhcosmetic/product_detail.html?id=' + product.id;
+        newProduct.href = `${baseUrl}/product_detail.html?id=` + product.id;
         newProduct.classList.add('item');
         if (product.discount > 0) {
             newProduct.innerHTML =
