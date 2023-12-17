@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "name": "3CE BLUR MATTE LIPSTICK",
+    "brand": "3CE",
+    "type": "son",
+    "price": 300000,
+    "discount": 20,
+    "category": "New Arrivals",
+    "description": "3CE là tên viết tắt của 3 Concept Eyes là một thương hiệu mỹ phẩm thuộc công ty StyleNanda, Hàn Quốc. Công ty sở hữu một nhãn hiệu thời trang nổi tiếng và là một biểu tượng thời trang của giới trẻ Hàn Quốc, Stylenanda đã dấn thân vào lĩnh vực mỹ phẩm, đặc biệt là son môi với thương hiệu 3CE và được lòng người dùng khắp Châu Á. Các sản phẩm từ 3CE rất đa dạng và bắt kịp xu hướng. Dòng Son Blur Matte Lipstick ra mắt với những thay đổi về packaging và giúp xóa tan những hạn chế cũng như định kiến của son lì chỉ gây khô môi. Đây là lớp son nhung lì mềm mại thế hệ mới.",
+    "image": "img/product/lipstick/lipstick1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Son Thỏi Mac Matte Lipstick 3g",
+    "brand": "BBIA",
+    "type": "son",
+    "price": 150000,
+    "discount": 10,
+    "category": "Best-Selling",
+    "description": "Son có finish lì, lên màu đậm chuẩn từ lần thoa đầu tiên. Khác với chất son Powder Kiss, MAC Matte Lipstick có thêm các thành phần dưỡng môi giúp bổ sung độ ẩm cho môi, hạn chế tình trạng khô môi, bong chóc. Tuy nhiên, với các cậu vẫn nên dưỡng ẩm môi một chút trước khi apply son để son được xinh nhất nhen ^^",
+    "image": "img/product/lipstick/lipstick2.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 3,
+    "name": "ARTIST CONCEALER PALETTE",
+    "brand": "kn",
+    "type": "Bảng che khuyết điểm",
+    "price": 150000,
+    "discount": 0,
+    "category": "Best-Selling",
+    "description": "Jung Saem Mool là 1 trong những chuyên gia trang điểm nổi tiếng bậc nhất ở Hàn Quốc. Bảng che khuyết điểm và triệt sắc cô nghiên cứu sản xuất ra rất phù hợp với làn da Châu Á.Palette được thiết kế xịn xò với 6 ô, mỗi ô – mỗi màu sắc lại có những công dụng chuyên biệt.",
+    "image": "img/product/lipstick/lipstick3.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 4,
+    "name": "Son dưỡng Glossier Ultralip 3g",
+    "brand": "3CE",
+    "type": "son",
+    "price": 300000,
+    "discount": 90,
+    "category": "Sale Off",
+    "description": "Ultra Lip là dòng son dưỡng có màu mới nhất của Glossier. Với công thức độc đáo, mang lại cho đôi môi cậu một sắc màu rực rỡ, đầy sức sống và độ bóng mịn màng, ẩm mượt suốt cả ngày dài.",
+    "image": "img/product/lipstick/glosier.webp",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 5,
+    "name": "TONE-UP CREAM",
+    "brand": "innisfree",
+    "type": "toner",
+    "price": 150000,
+    "discount": 90,
+    "category": "Sale Off",
+    "description": "Kem dưỡng dạng gel trong suốt innisfree Jeju Cherry Blossom Jelly Cream dưỡng ẩm sáng da từ hoa anh đào và Betaine tự nhiên, nhẹ nhàng và không gây nhờn rít.",
+    "image": "img/product/toner/toner1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1", "user_id" : 1},
+      { "user": "Người dùng 2", "comment": "Bình luận 2", "user_id" : 2 }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 6,
+    "name": "DASIQUE EYE PALETTE",
+    "brand": "Thương hiệu",
+    "type": "pm",
+    "price": 450000,
+    "discount": 0,
+    "description": "Mô tả sản phẩm",
+    "image": "img/product/eye_shadow/eyeShadow1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 7,
+    "name": "3CE BLUR MATTE LIPSTICK",
+    "brand": "3ce",
+    "type": "moisturizer",
+    "price": 300000,
+    "discount": 80,
+    "description": "3CE Blur Matte Lipstick là dòng son mới ra mắt của hãng, với sự thay đổi thiết kế lạ mắt, hiện đại cùng chất son mịn màng vốn luôn là thế mạnh, sản phẩm đã ngay lập tức làm xáo động giới beauty, nhiều mã đã nhanh chóng sold-out. ",
+    "image": "img/product/lipstick/eyebrow.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 8,
+    "name": "3CE BLUR MATTE LIPSTICK",
+    "brand": "Thương hiệu",
+    "type": "moisturizer",
+    "price": 300000,
+    "discount": 80,
+    "category": "New Arrivals",
+    "description": "Mascara Lông Mày 3CE Eyebrow  4G là sản phẩm mascara dành riêng cho lông mày đến từ thương hiệu 3CE, giúp tạo đường nét cho lông mày rõ nét hơn, tạo sợi chân mày thời thượng đặc biệt với bảng màu đa dạng thích hợp cho nhiều màu tóc khác nhau.",
+    "image": "img/product/lipstick/lipstick1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 9,
+    "name": "3CE BLUR MATTE LIPSTICK",
+    "brand": "Thương hiệu",
+    "type": "moisturizer",
+    "price": 300000,
+    "discount": 80,
+    "category": "New Arrivals",
+    "description": "Mô tả sản phẩm",
+    "image": "img/product/lipstick/lipstick1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 10,
+    "name": "3CE BLUR MATTE LIPSTICK",
+    "brand": "Thương hiệu",
+    "type": "moisturizer",
+    "price": 300000,
+    "discount": 10,
+    "description": "Mô tả sản phẩm",
+    "image": "img/product/lipstick/lipstick1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 11,
+    "name": "3CE BLUR MATTE LIPSTICK",
+    "brand": "Thương hiệu",
+    "type": "moisturizer",
+    "price": 300000,
+    "discount": 10,
+    "description": "Mô tả sản phẩm",
+    "image": "img/product/lipstick/lipstick1.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  }
+]
