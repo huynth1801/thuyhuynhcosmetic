@@ -28,9 +28,10 @@ function addDataToHTML(products) {
   // Thêm dữ liệu mới
   if (products != null) {
     products.forEach(product => {
+      const baseUrl = window.location.hostname === '127.0.0.1' ? '' : '/thuyhuynhcosmetic';
       const discountedPrice = calculateDiscountedPrice(product.price, product.discount);
       let newProduct = document.createElement('a');
-      newProduct.href = '/product_detail.html?id=' + product.id;
+      newProduct.href =`${baseUrl}/product_detail.html?id=` + product.id;
       newProduct.classList.add('item');
       if (product.discount > 0) {
         newProduct.innerHTML = 

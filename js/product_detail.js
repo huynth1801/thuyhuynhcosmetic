@@ -41,7 +41,6 @@ function showDetail() {
 
 
     (products.filter(value => value.id != productId && value.type == thisProduct.type)).forEach(product => {
-        console.log(window.location.hostname);
         const baseUrl = window.location.hostname === '127.0.0.1' ? '' : '/thuyhuynhcosmetic';
         let newProduct = document.createElement('a');
         const discountedPrice = calculateDiscountedPrice(product.price, product.discount);
